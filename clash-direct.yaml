@@ -1,3 +1,8 @@
 payload:
   # 内部网络
- - DOMAIN-SUFFIX,800best.com
+  - DOMAIN-SUFFIX,800best.com
+  
+  # 微软
+  - DOMAIN-SUFFIX,live.com
+  - DOMAIN-SUFFIX,live.net
+  - DOMAIN-SUFFIX,livefilestore.com
