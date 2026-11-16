@@ -1,14 +1,14 @@
 payload:
-  // 苹果
+  # 苹果
   - DOMAIN-SUFFIX,gsa.apple.com
   
-  // X
+  # X
   - DOMAIN-SUFFIX,t.co
   - DOMAIN-SUFFIX,t.cn
   - DOMAIN-SUFFIX,x.com
-  // telegram
+  # telegram
   - DOMAIN-SUFFIX,t.me
-  // tiktok
+  # tiktok
   - DOMAIN-SUFFIX,tiktokcdn-us.com
   - DOMAIN-SUFFIX,tiktok.com
     
@@ -55,7 +55,7 @@ payload:
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,steamgames.com
   
-  // lol
+  # lol
   - DOMAIN-SUFFIX,leagueoflegends.com
 
 
